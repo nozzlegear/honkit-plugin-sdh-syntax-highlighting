@@ -1,6 +1,5 @@
 {
   "name": "@nozzlegear/honkit-plugin-sdh-syntax-highlighting",
-  "private": true,
   "version": "1.0.0",
   "main": "dist/index.js",
   "description": "Adds syntax highlighting to language code blocks used by The Shopify Development Handbook <https://nozzlegear.com/shopify-development-handbook>.",
