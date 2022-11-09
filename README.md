@@ -4,9 +4,9 @@ A custom Honkit plugin which adds syntax highlighting for the different language
 
 | Language tag | Supported |
 | -------- | --------- |
-| cshtml (razor) | :check: |
-| ts (typescript) | :check: |
-| js (javascript) | :check: |
-| cs, csharp (C#) | :check: |
-| fs, fsharp (F#) | :check: |
-| diff, patch (git diff) | :check: |
+| cshtml (razor) | ✅ |
+| ts (typescript) | ✅ |
+| js (javascript) | ✅ |
+| cs, csharp (C#) | ✅ |
+| fs, fsharp (F#) | ✅ |
+| diff, patch (git diff) | ✅ |
